@@ -1,2 +1,1 @@
-HTC-Kernel-EndeavorU-Vanilla
-============================
+CM10 kernel repo for EndeavorU
